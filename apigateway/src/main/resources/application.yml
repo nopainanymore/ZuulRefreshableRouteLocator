@@ -17,6 +17,8 @@ spring:
     password: 8750
     driver-class-name: com.mysql.jdbc.Driver
 
+logging:
+  config: classpath:logback-spring.xml
 
 mybatis-plus:
   config-location: classpath:mybatis/mybatis-config.xml
