@@ -16,9 +16,12 @@ spring:
     username: root
     password: 8750
     driver-class-name: com.mysql.jdbc.Driver
-  jpa:
-    hibernate:
-      ddl-auto: update
+
+
+mybatis-plus:
+  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:mybatis/mapper/*.xml
+
 
 
 
