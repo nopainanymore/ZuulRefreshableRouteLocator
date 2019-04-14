@@ -1,3 +1,5 @@
 
 apigateway/.idea/*
 apigateway/apigateway.iml
+.idea/**
+.gitignore
