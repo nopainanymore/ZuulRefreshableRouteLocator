@@ -15,7 +15,10 @@ spring:
     url: jdbc:mysql://127.0.0.1:3306/apigateway?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     username: root
     password: 8750
-    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  profiles:
+    active: native
 
 logging:
   config: classpath:logback-spring.xml

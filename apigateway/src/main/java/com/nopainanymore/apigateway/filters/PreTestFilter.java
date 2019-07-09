@@ -1,4 +1,4 @@
-package com.lw.apigateway.filters;
+package com.nopainanymore.apigateway.filters;
 
 import com.google.gson.Gson;
 import com.netflix.zuul.ZuulFilter;
@@ -7,7 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author lw875
+ * @author nopainanymore
  * @create 2019/1/5  23:14
  **/
 public class PreTestFilter extends ZuulFilter {

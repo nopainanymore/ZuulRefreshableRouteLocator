@@ -1,10 +1,11 @@
 
-package com.lw.apigateway.controller;
+package com.nopainanymore.apigateway.controller;
 
 import com.google.gson.Gson;
-import com.lw.apigateway.RoutePublisher;
-import com.lw.apigateway.entity.MyRoute;
-import com.lw.apigateway.service.MyRouteService;
+
+import com.nopainanymore.apigateway.RoutePublisher;
+import com.nopainanymore.apigateway.entity.MyRoute;
+import com.nopainanymore.apigateway.service.MyRouteService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,7 +21,7 @@ import java.util.Map;
 /**
  * apigateway: ApiController
  *
- * @author 李旺 (Employee ID: 18070881)
+ * @author nopainanymore
  * @version 1.0.0, 2019-01-04 17:43
  * @since 1.0.0, 2019-01-04 17:43
  */

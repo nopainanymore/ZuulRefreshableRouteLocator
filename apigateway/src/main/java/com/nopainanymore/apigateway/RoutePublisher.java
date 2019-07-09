@@ -1,4 +1,4 @@
-package com.lw.apigateway;
+package com.nopainanymore.apigateway;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.netflix.zuul.RoutesRefreshedEvent;
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 /**
  * apigateway: RoutePublisher
  *
- * @author 李旺 (Employee ID: 18070881)
+ * @author nopainanymore
  * @version 1.0.0, 2019-01-05 11:18
  * @since 1.0.0, 2019-01-05 11:18
  */

@@ -1,4 +1,4 @@
-package com.lw.apigateway.config;
+package com.nopainanymore.apigateway.config;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import org.mybatis.spring.annotation.MapperScan;
@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author lw875
+ * @author nopainanymore
  * @create 2019-01-08 23:36
  */
 

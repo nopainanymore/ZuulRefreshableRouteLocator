@@ -1,7 +1,9 @@
-package com.lw.apigateway;
+package com.nopainanymore.apigateway;
 
-import com.lw.apigateway.entity.MyRoute;
-import com.lw.apigateway.service.MyRouteService;
+
+
+import com.nopainanymore.apigateway.entity.MyRoute;
+import com.nopainanymore.apigateway.service.MyRouteService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.cloud.netflix.zuul.filters.RefreshableRouteLocator;
 import org.springframework.cloud.netflix.zuul.filters.Route;
@@ -17,7 +19,7 @@ import java.util.Map;
 /**
  * apigateway: MyRouteLocator
  *
- * @author 李旺 (Employee ID: 18070881)
+ * @author nopainanymore
  * @version 1.0.0, 2019-01-04 19:43
  * @since 1.0.0, 2019-01-04 19:43
  */

@@ -6,7 +6,7 @@
         <setting name="mapUnderscoreToCamelCase" value="true"/>
     </settings>
     <typeAliases>
-        <package name="com.lw.apigateway.entity"/>
+        <package name="com.nopainanymore.apigateway.entity"/>
     </typeAliases>
 
 </configuration>

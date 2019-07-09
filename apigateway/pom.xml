@@ -8,10 +8,10 @@
         <version>2.1.0.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.lw</groupId>
+    <groupId>com.nopainanymore</groupId>
     <artifactId>api-gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>apigateway</name>
+    <name>api-gateway</name>
     <description>my-api-gateway</description>
 
     <properties>

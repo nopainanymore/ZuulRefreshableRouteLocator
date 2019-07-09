@@ -1,11 +1,11 @@
-package com.lw.apigateway.entity;
+package com.nopainanymore.apigateway.entity;
 
 import lombok.Data;
 
 /**
- * apigateway: MyRoute
+ * api-gateway: MyRoute
  *
- * @author 李旺 (Employee ID: 18070881)
+ * @author nopainanymore
  * @version 1.0.0, 2019-01-05 09:36
  * @since 1.0.0, 2019-01-05 09:36
  */

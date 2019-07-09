@@ -1,6 +1,8 @@
-package com.lw.apigateway.service;
+package com.nopainanymore.apigateway.service;
 
-import com.lw.apigateway.entity.MyRoute;
+
+
+import com.nopainanymore.apigateway.entity.MyRoute;
 
 import java.util.List;
 
